@@ -3,5 +3,9 @@ the real worlds so i read them and will try to implement them in java. Its just 
 
 I will keep Updating this branch with the algorithms i have read and implemented.
 
+Folder creditcard -- Contains the implementation of Luhn Algorithm which will be used in credit cards and is a kind of error
+detection in the given credit card. It also contains a Menu program to just to play around with. Test data for the Luhn algorithm
+can be found at http://www.paypalobjects.com/en_US/vhelp/paypalmanager_help/credit_card_numbers.htm
+
 Thanks,
 Happy Coding
